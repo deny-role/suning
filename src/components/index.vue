@@ -101,8 +101,8 @@
                 <ul class="top-list-box">
                     <li>
                         <router-link to="">
-                            <span class="li-img1"><img src="/images/top-list1.jpg" alt=""></span>
-                            <span class="li-bottom"><img src="/images/top-list11.png" alt=""></span>
+                            <span class="li-img1"><img src="images/top-list1.jpg" alt=""></span>
+                            <span class="li-bottom"><img src="images/top-list11.png" alt=""></span>
                             <div class="popularity-list">
                                 人气榜
                             </div>
@@ -112,8 +112,8 @@
                     </li>
                     <li>
                         <router-link to="">
-                            <span class="li-img1"><img src="/images/top-list2.jpg" alt=""></span>
-                            <span class="li-bottom"><img src="/images/top-list22.png" alt=""></span>
+                            <span class="li-img1"><img src="images/top-list2.jpg" alt=""></span>
+                            <span class="li-bottom"><img src="images/top-list22.png" alt=""></span>
                             <div class="popularity-list">
                                 人气榜
                             </div>
@@ -123,8 +123,8 @@
                     </li>
                     <li>
                         <router-link to="">
-                           <span class="li-img1"> <img src="/images/top-list3.jpg" alt=""> </span>
-                            <span class="li-bottom"><img src="/images/top-list33.png" alt=""></span>
+                           <span class="li-img1"> <img src="images/top-list3.jpg" alt=""> </span>
+                            <span class="li-bottom"><img src="images/top-list33.png" alt=""></span>
                             <div class="popularity-list">
                                 人气榜
                             </div>
